@@ -23,3 +23,7 @@ Veja a seção sobre [testes em execução](https://facebook.github.io/create-re
 Você pode saber mais em [Documentação do Create React App](https://facebook.github.io/create-react-app/docs/getting-started).
 
 Para aprender React, confira a [Documentação do React](https://reactjs.org/).
+
+## 📄 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./license) para mais detalhes.
